@@ -205,7 +205,7 @@ export default function HomePage() {
             mx-auto
           ">
 
-            Concurrency-safe multi-warehouse inventory reservation platform built with Next.js, Prisma, PostgreSQL, and real-time stock management.
+            Concurrency-safe multi-warehouse inventory reservation system with real-time tracking and expiration handling.
 
           </p>
 
