@@ -8,7 +8,7 @@ The system allows users to reserve inventory items safely while preventing overs
 
 # Live Demo
 
-https://your-vercel-url.vercel.app
+https://allo-inventory-system-five.vercel.app/
 
 ---
 
